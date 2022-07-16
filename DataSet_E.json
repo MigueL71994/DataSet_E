@@ -1,4 +1,4 @@
-﻿[
+[
     {
       "EST": 1,
       "Periodo": "MIGUEL",
@@ -8,19 +8,19 @@
     {
       "EST": 2,
       "Periodo": "PAOLA",
-      "NOTA": 4.5,
+      "NOTA": 4.8,
       "RANKING": 2
     },
     {
       "EST": 3,
       "NOMBRE": "MANUELA",
-      "NOTA": 4.2,
+      "NOTA": 4.5,
       "RANKING": 3
     },
     {
       "EST": 4,
       "NOMBRE": "CAMILA",
-      "NOTA": 4,
+      "NOTA": 4.3,
       "RANKING": 4
     },
     {
