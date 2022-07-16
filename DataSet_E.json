@@ -1,0 +1,56 @@
+﻿[
+    {
+      "EST": 1,
+      "Periodo": "MIGUEL",
+      "NOTA": 5,
+      "RANKING": 1
+    },
+    {
+      "EST": 2,
+      "Periodo": "PAOLA",
+      "NOTA": 4.5,
+      "RANKING": 2
+    },
+    {
+      "EST": 3,
+      "NOMBRE": "MANUELA",
+      "NOTA": 4.2,
+      "RANKING": 3
+    },
+    {
+      "EST": 4,
+      "NOMBRE": "CAMILA",
+      "NOTA": 4,
+      "RANKING": 4
+    },
+    {
+      "EST": 5,
+      "NOMBRE": "FELIPE",
+      "NOTA": 4.1,
+      "RANKING": 5
+    },
+    {
+      "EST": 6,
+      "NOMBRE": "MARIA",
+      "NOTA": 4,
+      "RANKING": 6
+    },
+    {
+      "EST": 7,
+      "NOMBRE": "RAUL",
+      "NOTA": 3.8,
+      "RANKING": 7
+    },
+    {
+      "EST": 8,
+      "NOMBRE": "ANDRES",
+      "NOTA": 3.5,
+      "RANKING": 8
+    },
+    {
+      "EST": 9,
+      "NOMBRE": "LUISA",
+      "NOTA": 3,
+      "RANKING": 9
+    }
+  ]
